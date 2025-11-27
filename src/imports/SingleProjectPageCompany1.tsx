@@ -1,5 +1,4 @@
 import image_bd23f82d6593be6b333143549ad520ddf1ec48a5 from 'figma:asset/bd23f82d6593be6b333143549ad520ddf1ec48a5.png';
-import svgPaths from "./svg-jkevsakw3l";
 import imgRectangle64 from "figma:asset/3a36055fd551fb1ae339017a75b24ee956138a8d.png";
 import imgRectangle66 from "figma:asset/fe178bf0f7bc61ddb688dd59a7d8fa5a1024d183.png";
 import imgRectangle65 from "figma:asset/1e334d6e1818957563eb0f82fb966c7fd0cb30b0.png";
