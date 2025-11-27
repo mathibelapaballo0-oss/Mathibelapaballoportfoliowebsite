@@ -550,13 +550,13 @@ function Frame9() {
       <div className="h-[706px] overflow-clip relative rounded-[inherit] w-full">
         <Frame28 />
         <div className="absolute h-[451px] left-[90px] top-[219.27px] w-[322px]">
-          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src={imgRectangle71} />
+          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src="https://ik.imagekit.io/nn50yidhh/Results.png" />
         </div>
         <div className="absolute h-[451px] left-[494px] top-[219.28px] w-[322px]">
-          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src={image_04798df0bb3d4310b5121a2a56684addc0554dbc} />
+          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src="https://ik.imagekit.io/nn50yidhh/Resources.png" />
         </div>
         <div className="absolute h-[451px] left-[879px] top-[219.27px] w-[322px]">
-          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src={imgRectangle73} />
+          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src="https://ik.imagekit.io/nn50yidhh/Corner.png"/>
         </div>
         <p className="absolute font-['Poppins:Bold',sans-serif] leading-[0.9] left-[74px] not-italic text-[16.336px] text-black text-nowrap top-[174.27px] whitespace-pre">{`The academy -Search Results  `}</p>
         <p className="absolute font-['Poppins:Bold',sans-serif] leading-[0.9] left-[508px] not-italic text-[16.336px] text-black top-[172.27px] w-[219px]">{`The academy -Resources `}</p>
@@ -569,11 +569,7 @@ function Frame9() {
           
         </div>
         <div className="absolute h-[200px] left-[770px] top-[500px] w-[350px] rounded-[8px] overflow-hidden">
-          <ImageWithFallback
-            alt="Web design prototype"
-            className="w-full h-full object-cover"
-            src="https://images.unsplash.com/photo-1585229259079-05ab82f93c7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3ZWIlMjBkZXNpZ24lMjBwcm90b3R5cGV8ZW58MXx8fHwxNzYzOTk2ODg0fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
-          />
+          
         </div>
       </div>
       <div aria-hidden="true" className="absolute border border-black border-solid inset-0 pointer-events-none rounded-[20px]" />
@@ -651,16 +647,16 @@ function Frame10() {
         <Frame29 />
         <Frame27 />
         <div className="absolute h-[451px] left-[95px] top-[205.26px] w-[322px]">
-          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src={imgRectangle67} />
+          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src="https://ik.imagekit.io/nn50yidhh/The%20Academy%20Search%20Results.png" />
         </div>
         <div className="absolute h-[451px] left-[499px] top-[205.27px] w-[322px]">
-          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src={imgRectangle69} />
+          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src="https://ik.imagekit.io/nn50yidhh/The%20Academy%20Resources%20Viewed.png?updatedAt=1764181587003" />
         </div>
         <div className="absolute h-[451px] left-[884px] top-[205.26px] w-[322px]">
-          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src={imgRectangle70} />
+          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src="https://ik.imagekit.io/nn50yidhh/The%20Academy%20Study%20Corner.png?updatedAt=1764181661754" />
         </div>
         <div className="absolute h-[359px] left-[448px] top-[279.26px] w-[491px]" />
-        <p className="absolute font-['Poppins:Bold',sans-serif] leading-[0.9] left-[79px] not-italic text-[16.336px] text-black top-[160.26px] w-[219px]">{`The academy -Home `}</p>
+        <p className="absolute font-['Poppins:Bold',sans-serif] leading-[0.9] left-[79px] not-italic text-[16.336px] text-black top-[160.26px] w-[219px]">{`The academy - Search Results `}</p>
         <p className="absolute font-['Poppins:Bold',sans-serif] leading-[0.9] left-[513px] not-italic text-[16.336px] text-black top-[158.26px] w-[219px]">{`The academy -Resources `}</p>
         <p className="absolute font-['Poppins:Bold',sans-serif] leading-[0.9] left-[903px] not-italic text-[16.336px] text-black top-[158.26px] w-[303px] whitespace-pre-wrap">{`The academy -Study corner  `}</p>
       </div>
@@ -676,43 +672,6 @@ function Frame40() {
       <Frame23 />
       <Frame9 />
       <Frame10 />
-    </div>
-  );
-}
-
-function Home2() {
-  return (
-    <div className="relative shrink-0 size-[24px]" data-name="home">
-      <svg className="block size-full" fill="none" preserveAspectRatio="none" viewBox="0 0 24 24">
-        <g id="home">
-          <path d={svgPaths.p1e128b00} fill="var(--fill-0, #F2F2F2)" id="Vector" />
-        </g>
-      </svg>
-    </div>
-  );
-}
-
-function Frame34() {
-  return (
-    <div className="box-border content-stretch flex gap-[10px] items-start p-[10px] relative shrink-0">
-      <Home2 />
-    </div>
-  );
-}
-
-function Frame33() {
-  return (
-    <div className="box-border content-stretch flex gap-[10px] items-start p-[10px] relative shrink-0">
-      <p className="font-['Poppins:Regular',sans-serif] leading-[1.432] not-italic relative shrink-0 text-[#f2f2f2] text-[17px] text-nowrap whitespace-pre">Home</p>
-    </div>
-  );
-}
-
-function Home3() {
-  return (
-    <div className="content-stretch flex items-center justify-center relative shrink-0 cursor-pointer hover:opacity-80 transition-opacity" data-name="Home">
-      <Frame34 />
-      <Frame33 />
     </div>
   );
 }
@@ -794,7 +753,7 @@ function Contact1() {
 function Menu() {
   return (
     <div className="absolute content-stretch flex gap-[50px] items-start left-[112px] top-[99px]" data-name="Menu">
-      <Home3 />
+      <Home1 />
       <About1 />
       <Contact1 />
     </div>
@@ -858,7 +817,7 @@ export default function SingleProjectPageCompany() {
       <HomePage />
       <Frame40 />
       <div className="absolute h-[895px] left-1/2 rounded-[50px] top-[957px] translate-x-[-50%] w-[1350px]">
-        <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none rounded-[50px] size-full" src={imgRectangle63} />
+        <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none rounded-[50px] size-full" src="https://ik.imagekit.io/nn50yidhh/The%20Academy%20Home.png" />
       </div>
       <Footer />
       <Frame41 />

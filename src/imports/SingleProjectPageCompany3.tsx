@@ -225,11 +225,10 @@ function HomePage() {
         <p className="font-['Poppins:Regular',sans-serif] mb-0">Lead Product Designer</p>
         <p className="mb-0">&nbsp;</p>
         <p className="font-['Poppins:Regular',sans-serif] mb-0">• Lead the end-to-end design process from research and discovery through interface design and usability testing</p>
-        <p className="font-['Poppins:Regular',sans-serif] mb-0">• Conducted user research,</p>
-        <p className="font-['Poppins:Regular',sans-serif] mb-0">• Created user personas and journey maps</p>
-        <p className="font-['Poppins:Regular',sans-serif] mb-0">• Crafted wireframes</p>
+        <p className="font-['Poppins:Regular',sans-serif] mb-0">• Conducted user research</p>
+        <p className="font-['Poppins:Regular',sans-serif] mb-0">• Created user personas and journey maps and Crafted wireframes</p>
         <p className="font-['Poppins:Regular',sans-serif] mb-0">• Delivered high-fidelity UI designs aligned with Drift’s sophisticated, modern brand identity</p>
-        <p className="font-['Poppins:Regular',sans-serif">• I also ensured design system consistency</p>
+    
       </div>
     </div>
   );
@@ -542,20 +541,20 @@ function Frame9() {
       <div className="h-[706px] overflow-clip relative rounded-[inherit] w-full">
         <Frame28 />
         <div className="absolute h-[398px] left-[46px] top-[221.24px] w-[294px]">
-          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src={imgRectangle64} />
+          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src="https://ik.imagekit.io/nn50yidhh/Hommmee.png" />
         </div>
         <div className="absolute h-[352.982px] left-[calc(50%-150.5px)] top-[221.24px] translate-x-[-50%] w-[277px]">
-          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src={imgRectangle66} />
+          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src="https://ik.imagekit.io/nn50yidhh/Aaabout%20Us.png" />
         </div>
         <div className="absolute h-[238px] left-[716px] top-[221.24px] w-[256px]">
-          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src={imgRectangle65} />
+          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src="https://ik.imagekit.io/nn50yidhh/Shooop.png" />
         </div>
         <p className="absolute font-['Poppins:Bold',sans-serif] leading-[0.9] left-[77px] not-italic text-[16.336px] text-black top-[176.26px] w-[174.674px]">{`Drift-Home `}</p>
         <p className="absolute font-['Poppins:Bold',sans-serif] h-[21px] leading-[0.9] left-[calc(50%-257px)] not-italic text-[16.336px] text-black top-[171.24px] w-[213px]">{`Drift-About Us `}</p>
         <p className="absolute font-['Poppins:Bold',sans-serif] h-[13px] leading-[0.9] left-[743px] not-italic text-[16.336px] text-black top-[171.24px] w-[219px]">Drift-Shop</p>
         <p className="absolute font-['Poppins:Bold',sans-serif] h-[13px] leading-[0.9] left-[1044px] not-italic text-[16.336px] text-black top-[169.24px] w-[219px]">{`Drift-Wishlist `}</p>
         <div className="absolute h-[269px] left-[1017px] top-[221.24px] w-[315px]">
-          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src={imgRectangle72} />
+          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src="https://ik.imagekit.io/nn50yidhh/Wishlistttttttt.png" />
         </div>
         {/* Additional wireframe stock images */}
         <div className="absolute h-[200px] left-[30px] top-[500px] w-[350px] rounded-[8px] overflow-hidden">
@@ -645,20 +644,20 @@ function Frame10() {
         <div className="absolute h-[359px] left-[448px] top-[279.26px] w-[491px]" />
         <div className="absolute h-[246px] left-[960px] top-[279.26px] w-[304px]" />
         <div className="absolute h-[398px] left-[28px] top-[224.24px] w-[294px]">
-          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src={imgRectangle73} />
+          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src="https://ik.imagekit.io/nn50yidhh/Oomee.png?updatedAt=1764177219221" />
         </div>
         <div className="absolute h-[352.982px] left-[calc(50%-168.5px)] top-[224.24px] translate-x-[-50%] w-[277px]">
-          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src={imgRectangle74} />
+          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src="https://ik.imagekit.io/nn50yidhh/About%20Us.png" />
         </div>
         <div className="absolute h-[238px] left-[698px] top-[224.24px] w-[256px]">
-          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src={imgRectangle75} />
+          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src="https://ik.imagekit.io/nn50yidhh/Shop.png" />
         </div>
         <p className="absolute font-['Poppins:Bold',sans-serif] leading-[0.9] left-[59px] not-italic text-[16.336px] text-black top-[179.26px] w-[174.674px]">{`Drift-Home `}</p>
         <p className="absolute font-['Poppins:Bold',sans-serif] h-[21px] leading-[0.9] left-[calc(50%-275px)] not-italic text-[16.336px] text-black top-[174.24px] w-[213px]">{`Drift-About Us `}</p>
         <p className="absolute font-['Poppins:Bold',sans-serif] h-[13px] leading-[0.9] left-[725px] not-italic text-[16.336px] text-black top-[174.24px] w-[219px]">Drift-Shop</p>
         <p className="absolute font-['Poppins:Bold',sans-serif] h-[13px] leading-[0.9] left-[1026px] not-italic text-[16.336px] text-black top-[172.24px] w-[219px]">{`Drift-Wishlist `}</p>
         <div className="absolute h-[269px] left-[999px] top-[224.24px] w-[315px]">
-          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src={imgRectangle76} />
+          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src="https://ik.imagekit.io/nn50yidhh/Wishlist.png" />
         </div>
       </div>
       <div aria-hidden="true" className="absolute border border-black border-solid inset-0 pointer-events-none rounded-[20px]" />
@@ -855,7 +854,7 @@ export default function SingleProjectPageCompany() {
       <HomePage />
       <Frame40 />
       <div className="absolute h-[895px] left-[calc(50%+3px)] rounded-[50px] top-[1012px] translate-x-[-50%] w-[1350px]">
-        <img alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none rounded-[50px] size-full" src={imgRectangle73} />
+        <img alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none rounded-[50px] size-full" src="https://ik.imagekit.io/nn50yidhh/Oomee.png?updatedAt=1764177219221" />
       </div>
       <Footer />
       <Frame41 />

@@ -570,16 +570,16 @@ function Frame9() {
       <div className="h-[706px] overflow-clip relative rounded-[inherit] w-full">
         <Frame28 />
         <div className="absolute h-[459px] left-[64px] top-[221.27px] w-[217px]">
-          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full"src={image_cf609b7de854c2b173e7ae7f96312fc1424da94b} />
+          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src="https://ik.imagekit.io/nn50yidhh/INDIE%20Onboarding.png" />
         </div>
         <div className="absolute h-[459px] left-[calc(50%-139.5px)] top-[226.24px] translate-x-[-50%] w-[217px]">
-          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full"src={image_656cc0fe8530f0d1761853665aa56e7052646439} />
+          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src="https://ik.imagekit.io/nn50yidhh/INDIE%20Login.png" />
         </div>
         <div className="absolute h-[459px] left-[775px] top-[226.24px] w-[217px]">
-          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src={imgRectangle68} />
+          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src="https://ik.imagekit.io/nn50yidhh/INDIE%20Home.png" />
         </div>
         <div className="absolute h-[459px] left-[1095px] top-[226.24px] w-[217px]">
-          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src={imgRectangle69} />
+          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src="https://ik.imagekit.io/nn50yidhh/INDIE%20Results%20Page.png" />
         </div>
         <div className="absolute h-[359px] left-[435px] top-[221.26px] w-[491px]" />
         <p className="absolute font-['Poppins:Bold',sans-serif] leading-[0.9] left-[77px] not-italic text-[16.336px] text-black top-[176.26px] w-[174.674px]">{`INDIE-Onboarding `}</p>
@@ -647,8 +647,8 @@ function Frame26() {
   return (
     <div className="bg-[#2954a3] box-border content-stretch flex gap-[21.345px] items-center justify-center px-[21.345px] py-[8.538px] relative rounded-[4.269px] shrink-0">
       <LogosFigma />
-      <a className="[white-space-collapse:collapse] block font-['Proxima_Nova:Bold',sans-serif] leading-[0] not-italic relative shrink-0 text-[16.336px] text-black text-nowrap" href="https://bit.ly/MaqubsAcademyWebUI">
-        <p className="[text-decoration-skip-ink:none] [text-underline-position:from-font] cursor-pointer decoration-solid leading-[normal] underline whitespace-pre">https://bit.ly/MaqubsAcademyWebUI</p>
+      <a className="[white-space-collapse:collapse] block font-['Proxima_Nova:Bold',sans-serif] leading-[0] not-italic relative shrink-0 text-[16.336px] text-black text-nowrap" href="https://www.figma.com/design/aC0Vx1wNBDEvjhUMmdNScJ/INDIE-Prototype?t=Al5MO9hRx4yI5I7Y-1">
+        <p className="[text-decoration-skip-ink:none] [text-underline-position:from-font] cursor-pointer decoration-solid leading-[normal] underline whitespace-pre">https://www.figma.com/design/aC0Vx1wNBDEvjhUMmdNScJ/INDIE-Prototype?t=Al5MO9hRx4yI5I7Y-1</p>
       </a>
     </div>
   );
@@ -672,16 +672,16 @@ function Frame10() {
         <Frame29 />
         <Frame27 />
         <div className="absolute h-[459px] left-[64px] top-[221.27px] w-[217px]">
-          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src={image_2e0f085fee61d2c0b0bedad5cdb74b7ae658ee8e} />
+          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src="https://ik.imagekit.io/nn50yidhh/Onboarding.png" />
         </div>
         <div className="absolute h-[459px] left-[calc(50%-139.5px)] top-[226.24px] translate-x-[-50%] w-[217px]">
-          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src={image_cef94f46df1684b46133f5ddad2b1f6b277e98a8} />
+          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src="https://ik.imagekit.io/nn50yidhh/Login.png" />
         </div>
         <div className="absolute h-[459px] left-[775px] top-[226.24px] w-[217px]">
-          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src={image_8dcfed222f7e40b3588e7fd5dfb19134034f1d97} />
+          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src="https://ik.imagekit.io/nn50yidhh/Home.png" />
         </div>
         <div className="absolute h-[459px] left-[1095px] top-[226.24px] w-[217px]">
-          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full"src={image_ca7986f51e9f6497e0eef568ec8c9856ff589df9} />
+          <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full" src="https://ik.imagekit.io/nn50yidhh/Search%20Bar%20Results.png" />
         </div>
         <p className="absolute font-['Poppins:Bold',sans-serif] leading-[0.9] left-[107px] not-italic text-[16.336px] text-black top-[170.27px] w-[174.674px]">{`INDIE-Onboarding `}</p>
         <p className="absolute font-['Poppins:Bold',sans-serif] leading-[0.9] left-[465px] not-italic text-[16.336px] text-black top-[173.24px] w-[219px]">{`INDIE- Login `}</p>
@@ -884,7 +884,7 @@ export default function SingleProjectPageCompany() {
       <HomePage />
       <Frame40 />
       <div className="absolute h-[895px] left-1/2 rounded-[50px] top-[957px] translate-x-[-50%] w-[1350px]">
-        <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none rounded-[50px] size-full" src={imgRectangle63} />
+        <ImageWithFallback alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none rounded-[50px] size-full" src="https://ik.imagekit.io/nn50yidhh/Desktop%20-%201.png" />
       </div>
       <Footer />
       <Frame41 />

@@ -910,12 +910,12 @@ function Frame9() {
             <img
               alt=""
               className="absolute max-w-none object-center object-cover size-full"
-              src={imgRectangle64}
+              src="https://ik.imagekit.io/nn50yidhh/Splash.png"
             />
             <img
               alt=""
               className="absolute max-w-none object-center object-cover size-full"
-              src={imgRectangle64}
+              src="https://ik.imagekit.io/nn50yidhh/Academia%20Splash.png"
             />
           </div>
         </div>
@@ -923,14 +923,14 @@ function Frame9() {
           <img
             alt=""
             className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full"
-            src={imgRectangle66}
+            src="https://ik.imagekit.io/nn50yidhh/At-Risk%20Student%20Dashboard%201.png"
           />
         </div>
         <div className="absolute h-[246px] left-[947px] top-[221.26px] w-[304px]">
           <img
             alt=""
             className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full"
-            src={imgRectangle65}
+            src="https://ik.imagekit.io/nn50yidhh/Academia%20360%20Profile%201.png"
           />
         </div>
         <p className="absolute font-['Poppins:Bold',sans-serif] leading-[0.9] left-[77px] not-italic text-[16.336px] text-black top-[176.26px] w-[174.674px]">{`Academia sign in `}</p>
@@ -1072,21 +1072,21 @@ function Frame10() {
           <img
             alt=""
             className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full"
-            src={imgRectangle67}
+            src="https://ik.imagekit.io/nn50yidhh/Splash.png"
           />
         </div>
         <div className="absolute h-[359px] left-[448px] top-[279.26px] w-[491px]">
           <img
             alt=""
             className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full"
-            src={imgRectangle68}
+            src="https://ik.imagekit.io/nn50yidhh/At-Risk%20Student%20Dashboard.png"
           />
         </div>
         <div className="absolute h-[246px] left-[960px] top-[279.26px] w-[304px]">
           <img
             alt=""
             className="absolute inset-0 max-w-none object-center object-cover pointer-events-none size-full"
-            src={imgRectangle69}
+            src="https://ik.imagekit.io/nn50yidhh/Student%20360%20Profile.png"
           />
         </div>
         <p className="absolute font-['Poppins:Bold',sans-serif] leading-[0.9] left-[90px] not-italic text-[16.336px] text-black top-[234.26px] w-[174.674px]">{`Academia sign in `}</p>
@@ -1375,7 +1375,7 @@ export default function SingleProjectPageCompany() {
         <img
           alt=""
           className="absolute inset-0 max-w-none object-center object-cover pointer-events-none rounded-[50px] size-full"
-          src={image_bd23f82d6593be6b333143549ad520ddf1ec48a5}
+          src="https://ik.imagekit.io/nn50yidhh/Splash.png"
         />
       </div>
       <Frame41 />

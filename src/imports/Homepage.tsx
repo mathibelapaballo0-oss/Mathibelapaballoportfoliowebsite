@@ -404,7 +404,7 @@ function Cards() {
     <div className="absolute backdrop-blur-[12.259px] backdrop-filter bg-[rgba(181,249,253,0.42)] h-[490px] left-0 rounded-[36.777px] top-0 w-[665px]" data-name="cards">
       <div className="h-[490px] overflow-clip relative rounded-[inherit] w-[665px]">
         <div className="absolute h-[490px] left-0 pointer-events-none rounded-[30px] top-0 w-[665px]" data-name="unsplash:_nWaeTF6qo0">
-          <img alt="" className="absolute inset-0 max-w-none object-center object-cover rounded-[30px] size-full" src={imgUnsplashNWaeTf6Qo0} />
+          <img alt="" className="absolute inset-0 max-w-none object-center object-cover rounded-[30px] size-full" src="https://ik.imagekit.io/nn50yidhh/Desktop%20-%201.png" />
           <div aria-hidden="true" className="absolute border border-black border-solid inset-0 rounded-[30px]" />
         </div>
       </div>
@@ -434,7 +434,7 @@ function Cards1() {
     <div className="absolute backdrop-blur-[12.259px] backdrop-filter bg-[rgba(181,249,253,0.42)] h-[490px] left-0 rounded-[36.777px] top-0 w-[665px]" data-name="cards">
       <div className="h-[490px] overflow-clip relative rounded-[inherit] w-[665px]">
         <div className="absolute h-[490px] left-0 pointer-events-none rounded-[30px] top-0 w-[665px]" data-name="unsplash:_nWaeTF6qo0">
-          <img alt="" className="absolute inset-0 max-w-none object-center object-cover rounded-[30px] size-full" src={imgUnsplashNWaeTf6Qo1} />
+          <img alt="" className="absolute inset-0 max-w-none object-center object-cover rounded-[30px] size-full" src="https://ik.imagekit.io/nn50yidhh/The%20Academy%20Home.png" />
           <div aria-hidden="true" className="absolute border border-black border-solid inset-0 rounded-[30px]" />
         </div>
       </div>
@@ -464,7 +464,7 @@ function Cards2() {
     <div className="absolute backdrop-blur-[12.259px] backdrop-filter bg-[rgba(181,249,253,0.42)] h-[490px] left-0 rounded-[36.777px] top-0 w-[665px]" data-name="cards">
       <div className="h-[490px] overflow-clip relative rounded-[inherit] w-[665px]">
         <div className="absolute h-[490px] left-0 rounded-[30px] top-0 w-[665px]" data-name="unsplash:_nWaeTF6qo0">
-          <img alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none rounded-[30px] size-full" src={imgUnsplashNWaeTf6Qo2} />
+          <img alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none rounded-[30px] size-full" src="https://ik.imagekit.io/nn50yidhh/Splash.png" />
         </div>
       </div>
       <div aria-hidden="true" className="absolute border-[1.876px] border-[rgba(255,255,255,0.6)] border-solid inset-0 pointer-events-none rounded-[36.777px]" />
@@ -522,7 +522,7 @@ function Cards4() {
     <div className="absolute backdrop-blur-[12.259px] backdrop-filter bg-[rgba(181,249,253,0.42)] h-[490px] left-0 rounded-[36.777px] top-0 w-[665px]" data-name="cards">
       <div className="h-[490px] overflow-clip relative rounded-[inherit] w-[665px]">
         <div className="absolute h-[490px] left-0 pointer-events-none rounded-[30px] top-0 w-[665px]" data-name="unsplash:_nWaeTF6qo0">
-          <img alt="" className="absolute inset-0 max-w-none object-center object-cover rounded-[30px] size-full" src={imgUnsplashNWaeTf6Qo4} />
+          <img alt="" className="absolute inset-0 max-w-none object-center object-cover rounded-[30px] size-full" src="https://ik.imagekit.io/nn50yidhh/Oomee.png?updatedAt=1764177219221" />
           <div aria-hidden="true" className="absolute border border-black border-solid inset-0 rounded-[30px]" />
         </div>
       </div>
@@ -785,18 +785,18 @@ function Frame11() {
     <div className="absolute content-stretch flex gap-[40px] items-center left-[1083px] top-[767px]">
       <div className="relative rounded-[10.407px] shrink-0 size-[40.473px]" data-name="image 13">
         <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[10.407px]">
-          <img alt="" className="absolute h-[120.91%] left-[-12.41%] max-w-none top-[-10.1%] w-[124.14%]" src={imgImage13} />
+          <img alt="" className="absolute h-[120.91%] left-[-12.41%] max-w-none top-[-10.1%] w-[124.14%]" src="https://ik.imagekit.io/nn50yidhh/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png" />
         </div>
       </div>
       <div className="h-[38.896px] relative shrink-0 w-[39.421px]" data-name="image 12">
         <div className="absolute inset-0 overflow-hidden pointer-events-none">
-          <img alt="" className="absolute h-[145.38%] left-[-21.05%] max-w-none top-[-22.82%] w-[142.11%]" src={imgImage12} />
+          <img alt="" className="absolute h-[145.38%] left-[-21.05%] max-w-none top-[-22.82%] w-[142.11%]" src="https://ik.imagekit.io/nn50yidhh/download.png" />
         </div>
       </div>
       <DeviconCanva />
       <div className="h-[38.37px] relative rounded-[8px] shrink-0 w-[40.473px]" data-name="image 11">
         <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[8px]">
-          <img alt="" className="absolute h-[163.67%] left-[-28.57%] max-w-none top-[-31.42%] w-[156.99%]" src={imgImage11} />
+          <img alt="" className="absolute h-[163.67%] left-[-28.57%] max-w-none top-[-31.42%] w-[156.99%]" src="https://ik.imagekit.io/nn50yidhh/Microsoft-PowerPoint-Logo.png" />
         </div>
       </div>
     </div>
@@ -921,7 +921,7 @@ function AboutMePage() {
       </div>
       <Contact1 />
       <div className="absolute h-[495px] left-[940px] rounded-[20px] top-[82px] w-[472px]">
-        <img alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none rounded-[20px] size-full" src={imgRectangle61} />
+        <img alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none rounded-[20px] size-full" src="https://ik.imagekit.io/nn50yidhh/IMG-20250310-WA0014.jpg" />
       </div>
     </div>
   );
@@ -1240,7 +1240,7 @@ function HomePage() {
       <Card />
       <Frame9 />
       <div className="absolute h-[736px] left-[852px] rounded-[20px] top-[163px] w-[572px]">
-        <img alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none rounded-[20px] size-full" src={imgRectangle62} />
+        <img alt="" className="absolute inset-0 max-w-none object-center object-cover pointer-events-none rounded-[20px] size-full" src="https://ik.imagekit.io/nn50yidhh/IMG-20250917-WA0004%20(1).jpg" />
       </div>
       <SideMenu />
       <div className="absolute font-['Poppins:Regular',sans-serif] h-[82px] leading-[1.3] left-[90px] not-italic text-[25px] text-black top-[422px] w-[774px]">
